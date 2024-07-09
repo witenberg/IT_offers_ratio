@@ -1,0 +1,979 @@
+Bardo	2416
+Bielawa	28688
+Bierutów	4553
+Bogatynia	16460
+Boguszów-Gorce	14535
+Bolesławiec	37522
+Bolków	4670
+Brzeg Dolny	12695
+Bystrzyca Kłodzka	9335
+Chocianów	7519
+Chojnów	12619
+Duszniki-Zdrój	4178
+Dzierżoniów	31478
+Głogów	63730
+Głuszyca	5999
+Góra	11036
+Gryfów Śląski	6302
+Jawor	21264
+Jaworzyna Śląska	5066
+Jedlina-Zdrój	4766
+Jelcz-Laskowice	15234
+Jelenia Góra	76570
+Kamieniec Ząbkowicki	4403
+Kamienna Góra	17724
+Karpacz	4358
+Kąty Wrocławskie	7220
+Kłodzko	25442
+Kowary	10139
+Kudowa-Zdrój	9509
+Lądek-Zdrój	5115
+Legnica	93988
+Leśna	4135
+Lubań	19964
+Lubawka	5652
+Lubin	69267
+Lubomierz	1756
+Lwówek Śląski	8346
+Mieroszów	3815
+Międzybórz	2362
+Międzylesie	2448
+Milicz	10977
+Mirsk	3703
+Niemcza	2752
+Nowa Ruda	21018
+Nowogrodziec	4120
+Oborniki Śląskie	9050
+Oleśnica	35640
+Olszyna	4345
+Oława	33201
+Piechowice	5886
+Pieńsk	5578
+Pieszyce	6876
+Piława Górna	6059
+Polanica-Zdrój	6141
+Polkowice	21630
+Prochowice	3536
+Prusice	2195
+Przemków	5744
+Radków	2302
+Siechnice	10310
+Sobótka	7005
+Stronie Śląskie	5089
+Strzegom	15225
+Strzelin	12091
+Syców	10003
+Szczawno-Zdrój	5257
+Szczytna	4864
+Szklarska Poręba	5873
+Ścinawa	5349
+Środa Śląska	9549
+Świdnica	54192
+Świebodzice	22110
+Świeradów-Zdrój	4080
+Świerzawa	2071
+Trzebnica	13696
+Twardogóra	6315
+Wałbrzych	103263
+Wąsosz	2582
+Węgliniec	2682
+Wiązów	2293
+Wleń	1606
+Wojcieszów	3512
+Wołów	12190
+Wrocław	674312
+Zawidów	3883
+Ząbkowice Śląskie	14495
+Zgorzelec	29542
+Ziębice	8070
+Złotoryja	14488
+Złoty Stok	2549
+Żarów	6551
+Żmigród	6264
+	
+Aleksandrów Kujawski	11627
+Barcin	7142
+Brodnica	28715
+Brześć Kujawski	4529
+Bydgoszcz	334026
+Chełmno	18617
+Chełmża	13906
+Chodecz	1770
+Ciechocinek	10349
+Dobrzyń nad Wisłą	2007
+Gniewkowo	6825
+Golub-Dobrzyń	11577
+Górzno	1385
+Grudziądz	90275
+Inowrocław	68906
+Izbica Kujawska	2507
+Jabłonowo Pomorskie	3676
+Janikowo	8291
+Janowiec Wielkopolski	3788
+Kamień Krajeński	2365
+Kcynia	4304
+Koronowo	10864
+Kowal	3365
+Kowalewo Pomorskie	4059
+Kruszwica	9232
+Lipno	13621
+Lubień Kujawski	1350
+Lubraniec	2778
+Łabiszyn	4480
+Łasin	3150
+Mogilno	11276
+Mrocza	4183
+Nakło nad Notecią	17479
+Nieszawa	1762
+Nowe	5519
+Pakość	5253
+Piotrków Kujawski	4275
+Pruszcz	2710
+Radziejów	5198
+Radzyń Chełmiński	1811
+Rypin	15697
+Sępólno Krajeńskie	8892
+Skępe	3455
+Solec Kujawski	15432
+Strzelno	5341
+Szubin	9506
+Świecie	25209
+Toruń	197112
+Tuchola	13351
+Wąbrzeźno	13220
+Więcbork	5787
+Włocławek	103535
+Żnin	13349
+	
+Annopol	2343
+Bełżyce	6067
+Biała Podlaska	55100
+Biłgoraj	25268
+Bychawa	4641
+Chełm	58805
+Dęblin	14504
+Frampol	1362
+Goraj	881
+Hrubieszów	16563
+Izbica	1739
+Janów Lubelski	11192
+Józefów	2368
+Józefów nad Wisłą	825
+Kamionka	1702
+Kazimierz Dolny	3243
+Kock	2932
+Krasnobród	3011
+Krasnystaw	17702
+Kraśnik	32189
+Lubartów	20306
+Lublin	332852
+Lubycza Królewska	2187
+Łaszczów	1987
+Łęczna	18025
+Łuków	27719
+Międzyrzec Podlaski	15685
+Modliborzyce	1407
+Nałęczów	3671
+Opole Lubelskie	8103
+Ostrów Lubelski	2014
+Parczew	10402
+Piaski	2458
+Poniatowa	8440
+Puławy	44755
+Radzyń Podlaski	14620
+Rejowiec	1967
+Rejowiec Fabryczny	4051
+Ryki	9200
+Siedliszcze	1343
+Stoczek Łukowski	2401
+Szczebrzeszyn	4827
+Świdnik	37396
+Tarnogród	3184
+Terespol	5254
+Tomaszów Lubelski	18291
+Tyszowce	1871
+Urzędów	1690
+Włodawa	12364
+Zamość	59603
+Zwierzyniec	2867
+	
+Babimost	3832
+Bytom Odrzański	4010
+Cybinka	2683
+Czerwieńsk	3874
+Dobiegniew	3041
+Drezdenko	9683
+Gorzów Wielkopolski	118011
+Gozdnica	2812
+Gubin	15955
+Iłowa	3685
+Jasień	4121
+Kargowa	3810
+Kostrzyn nad Odrą	17885
+Kożuchów	9038
+Krosno Odrzańskie	10835
+Lubniewice	2000
+Lubsko	13109
+Łęknica	2290
+Małomice	3439
+Międzyrzecz	17256
+Nowa Sól	36569
+Nowe Miasteczko	2652
+Nowogród Bobrzański	4841
+Ośno Lubuskie	3906
+Otyń	1702
+Rzepin	6447
+Skwierzyna	9222
+Sława	4145
+Słubice	16401
+Strzelce Krajeńskie	9868
+Sulechów	15881
+Sulęcin	9864
+Szlichtyngowa	1246
+Szprotawa	10954
+Świebodzin	21254
+Torzym	2443
+Trzciel	2243
+Witnica	6481
+Wschowa	13353
+Zbąszynek	4929
+Zielona Góra	139667
+Żagań	24130
+Żary	35673
+	
+Aleksandrów Łódzki	22188
+Bełchatów	53718
+Biała Rawska	3082
+Błaszki	2044
+Bolimów	899
+Brzeziny	12099
+Drzewica	3604
+Działoszyn	5384
+Głowno	13342
+Kamieńsk	2642
+Koluszki	12318
+Konstantynów Łódzki	19117
+Krośniewice	4121
+Kutno	41754
+Lutomiersk	1569
+Lututów	2232
+Łask	16385
+Łęczyca	13340
+Łowicz	26582
+Łódź	664860
+Opoczno	19540
+Ozorków	18488
+Pabianice	62238
+Pajęczno	6473
+Piątek	1604
+Piotrków Trybunalski	68270
+Poddębice	6904
+Przedbórz	3288
+Radomsko	43958
+Rawa Mazowiecka	16249
+Rzgów	3445
+Sieradz	39641
+Skierniewice	45933
+Stryków	3423
+Sulejów	5995
+Szadek	1801
+Tomaszów Mazowiecki	58796
+Tuszyn	7179
+Uniejów	2930
+Warta	3021
+Wieluń	21118
+Wieruszów	8480
+Wolbórz	2263
+Zduńska Wola	39434
+Zelów	7217
+Zgierz	54550
+Złoczew	3407
+Żychlin	7743
+	
+Alwernia	3287
+Andrychów	18981
+Biecz	4384
+Bobowa	3074
+Bochnia	28778
+Brzesko	16140
+Brzeszcze	10941
+Bukowno	9710
+Chełmek	8584
+Chrzanów	34743
+Ciężkowice	2506
+Czchów	2329
+Dąbrowa Tarnowska	11511
+Dobczyce	6239
+Gorlice	26090
+Grybów	5982
+Jordanów	5392
+Kalwaria Zebrzydowska	4372
+Kęty	17961
+Koszyce	769
+Kraków	802583
+Krynica-Zdrój	9875
+Krzeszowice	9827
+Libiąż	16278
+Limanowa	14578
+Maków Podhalański	5604
+Miechów	11104
+Mszana Dolna	7831
+Muszyna	4540
+Myślenice	18019
+Niepołomice	16035
+Nowe Brzesko	1627
+Nowy Sącz	80979
+Nowy Targ	33130
+Nowy Wiśnicz	2782
+Olkusz	33102
+Oświęcim	36580
+Piwniczna-Zdrój	5493
+Proszowice	5886
+Rabka-Zdrój	12418
+Radłów	2671
+Ryglice	2717
+Skała	3881
+Skawina	24104
+Słomniki	4224
+Stary Sącz	8740
+Sucha Beskidzka	8913
+Sułkowice	6520
+Szczawnica	5388
+Szczucin	4111
+Świątniki Górne	2418
+Tarnów	105014
+Trzebinia	18925
+Tuchów	6283
+Wadowice	17660
+Wieliczka	26863
+Wojnicz	3104
+Wolbrom	8240
+Zakliczyn	1583
+Zakopane	25562
+Zator	3607
+Żabno	4161
+	
+Białobrzegi	6530
+Bieżuń	1743
+Błonie	12095
+Brok	1764
+Brwinów	14466
+Cegłów	2279
+Chorzele	2940
+Ciechanów	42449
+Czerwińsk nad Wisłą	1014
+Drobin	2683
+Garwolin	17296
+Gąbin	4111
+Glinojeck	2832
+Gostynin	17498
+Góra Kalwaria	11876
+Grodzisk Mazowiecki	34009
+Grójec	16945
+Halinów	3755
+Iłża	4430
+Jedlnia-Letnisko	4041
+Józefów	20998
+Kałuszyn	2708
+Karczew	9434
+Kobyłka	27580
+Konstancin-Jeziorna	17032
+Kosów Lacki	1998
+Kozienice	16009
+Legionowo	52995
+Lipsko	5108
+Lubowidz	1564
+Łaskarzew	4547
+Łochów	6632
+Łomianki	18118
+Łosice	6957
+Maków Mazowiecki	9106
+Marki	43164
+Milanówek	16520
+Mińsk Mazowiecki	40333
+Mława	30869
+Mogielnica	2180
+Mordy	1612
+Mrozy	3584
+Mszczonów	6182
+Myszyniec	3254
+Nasielsk	7431
+Nowe Miasto	1530
+Nowe Miasto nad Pilicą	3602
+Nowy Dwór Mazowiecki	28586
+Ostrołęka	49275
+Ostrów Mazowiecka	21834
+Otwock	44333
+Ożarów Mazowiecki	14719
+Piaseczno	51979
+Piastów	23140
+Pilawa	4432
+Pionki	16564
+Płock	113660
+Płońsk	21733
+Podkowa Leśna	3859
+Pruszków	65333
+Przasnysz	16544
+Przysucha	5476
+Pułtusk	19270
+Raciąż	4069
+Radom	199904
+Radzymin	14444
+Różan	2659
+Sanniki	1776
+Serock	5041
+Siedlce	76005
+Sierpc	17199
+Skaryszew	4383
+Sochaczew	34139
+Sochocin	1946
+Sokołów Podlaski	18502
+Solec nad Wisłą	900
+Sulejówek	21253
+Szydłowiec	10809
+Tarczyn	4269
+Tłuszcz	8002
+Warka	11991
+Warszawa	1863056
+Węgrów	11911
+Wiskitki	1411
+Wołomin	36063
+Wyszków	26241
+Wyszogród	2454
+Wyśmierzyce	874
+Zakroczym	3159
+Ząbki	44325
+Zielonka	18179
+Zwoleń	7331
+Żelechów	3808
+Żuromin	8568
+Żyrardów	39069
+	
+Baborów	2867
+Biała	2303
+Brzeg	34177
+Byczyna	3453
+Dobrodzień	3486
+Głogówek	5568
+Głubczyce	11958
+Głuchołazy	12965
+Gogolin	6428
+Gorzów Śląski	2430
+Grodków	8122
+Kędzierzyn-Koźle	56033
+Kietrz	5591
+Kluczbork	22523
+Kolonowskie	3217
+Korfantów	1738
+Krapkowice	15605
+Leśnica	2589
+Lewin Brzeski	5635
+Namysłów	16994
+Niemodlin	5985
+Nysa	41692
+Olesno	9127
+Opole	126775
+Otmuchów	6289
+Ozimek	8135
+Paczków	6829
+Praszka	7235
+Prószków	2561
+Prudnik	19510
+Strzelce Opolskie	17349
+Tułowice	3731
+Ujazd	1784
+Wołczyn	5479
+Zawadzkie	6599
+Zdzieszowice	10333
+	
+Baranów Sandomierski	1410
+Błażowa	2117
+Boguchwała	6231
+Brzostek	2724
+Brzozów	7289
+Cieszanów	1862
+Dębica	43698
+Dubiecko	834
+Dukla	2017
+Dynów	6051
+Głogów Małopolski	10333
+Iwonicz-Zdrój	1592
+Jarosław	35945
+Jasło	33463
+Jedlicze	5561
+Kańczuga	2963
+Kolbuszowa	8640
+Kołaczyce	1382
+Krosno	44687
+Lesko	5215
+Leżajsk	13019
+Lubaczów	11515
+Łańcut	17691
+Mielec	57801
+Narol	2019
+Nisko	14759
+Nowa Dęba	10532
+Nowa Sarzyna	5578
+Oleszyce	2863
+Pilzno	4957
+Pruchnik	3623
+Przecław	1804
+Przemyśl	57568
+Przeworsk	14796
+Radomyśl Wielki	3349
+Radymno	5066
+Ropczyce	15846
+Rudnik nad Sanem	6513
+Rymanów	3576
+Rzeszów	196374
+Sanok	35178
+Sędziszów Małopolski	12368
+Sieniawa	2007
+Sokołów Małopolski	4296
+Stalowa Wola	56819
+Strzyżów	8527
+Tarnobrzeg	44529
+Tyczyn	4415
+Ulanów	1392
+Ustrzyki Dolne	8604
+Zagórz	4986
+Zaklików	2825
+	
+Augustów	29341
+Białystok	293413
+Bielsk Podlaski	24417
+Brańsk	3557
+Choroszcz	5991
+Ciechanowiec	4447
+Czarna Białostocka	8814
+Czyżew	2510
+Dąbrowa Białostocka	5195
+Drohiczyn	1818
+Goniądz	1748
+Grajewo	21303
+Hajnówka	19487
+Jedwabne	1698
+Kleszczele	1110
+Knyszyn	2659
+Kolno	9942
+Krynki	2215
+Lipsk	2131
+Łapy	14709
+Łomża	60468
+Michałowo	2781
+Mońki	9631
+Nowogród	2125
+Rajgród	1439
+Sejny	5024
+Siemiatycze	13639
+Sokółka	17481
+Stawiski	2048
+Suchowola	2085
+Supraśl	4388
+Suraż	980
+Suwałki	68839
+Szczuczyn	3221
+Szepietowo	2050
+Tykocin	1902
+Wasilków	12330
+Wysokie Mazowieckie	9081
+Zabłudów	2478
+Zambrów	21188
+	
+Brusy	5130
+Bytów	16653
+Chojnice	39158
+Czarna Woda	2722
+Czarne	5683
+Czersk	9956
+Człuchów	13270
+Debrzno	4972
+Dzierzgoń	5074
+Gdańsk	486271
+Gdynia	244676
+Gniew	6235
+Hel	2909
+Jastarnia	2656
+Kartuzy	14064
+Kępice	3374
+Kościerzyna	23524
+Krynica Morska	1183
+Kwidzyn	37513
+Lębork	34365
+Łeba	3172
+Malbork	37341
+Miastko	9626
+Nowy Dwór Gdański	9551
+Nowy Staw	4090
+Pelplin	7399
+Prabuty	8225
+Pruszcz Gdański	31791
+Puck	10787
+Reda	28428
+Rumia	52221
+Skarszewy	6786
+Skórcz	3485
+Słupsk	87119
+Sopot	32743
+Starogard Gdański	45991
+Sztum	9417
+Tczew	57856
+Ustka	14161
+Wejherowo	46968
+Władysławowo	9547
+Żukowo	6663
+	
+Będzin	55065
+Bielsko-Biała	168106
+Bieruń	19087
+Blachownia	9276
+Bytom	151691
+Chorzów	103229
+Cieszyn	33601
+Czechowice-Dziedzice	35121
+Czeladź	30492
+Czerwionka-Leszczyny	26860
+Częstochowa	210773
+Dąbrowa Górnicza	115955
+Gliwice	172628
+Imielin	9377
+Jastrzębie-Zdrój	83987
+Jaworzno	88267
+Kalety	8206
+Katowice	282755
+Kłobuck	12457
+Knurów	36261
+Koniecpol	5507
+Koziegłowy	2402
+Krzanowice	2016
+Krzepice	4196
+Kuźnia Raciborska	4741
+Lędziny	16489
+Lubliniec	23542
+Łaziska Górne	21432
+Łazy	6545
+Miasteczko Śląskie	7044
+Mikołów	41314
+Mysłowice	72124
+Myszków	30072
+Ogrodzieniec	4175
+Olsztyn	2499
+Orzesze	21687
+Piekary Śląskie	52699
+Pilica	1775
+Poręba	8250
+Pszczyna	25407
+Pszów	13218
+Pyskowice	17248
+Racibórz	50743
+Radlin	17067
+Radzionków	16193
+Ruda Śląska	132766
+Rybnik	132923
+Rydułtowy	20561
+Siemianowice Śląskie	64365
+Siewierz	5646
+Skoczów	13746
+Sławków	6909
+Sosnowiec	191676
+Sośnicowice	1970
+Strumień	3590
+Szczekociny	3412
+Szczyrk	5454
+Świętochłowice	46112
+Tarnowskie Góry	61343
+Toszek	3526
+Tychy	124139
+Ustroń	16035
+Wilamowice	3165
+Wisła	10798
+Wodzisław Śląski	45571
+Wojkowice	8574
+Woźniki	4184
+Zabrze	156935
+Zawiercie	47220
+Żarki	4404
+Żory	61839
+Żywiec	30043
+	
+Bodzentyn	2135
+Busko-Zdrój	14787
+Chęciny	4343
+Chmielnik	3521
+Ćmielów	2852
+Daleszyce	2818
+Działoszyce	868
+Iwaniska	1249
+Jędrzejów	14424
+Kazimierza Wielka	5145
+Kielce	185478
+Klimontów	1769
+Końskie	17973
+Koprzywnica	2389
+Kunów	2764
+Łagów	1551
+Małogoszcz	3463
+Morawica	1749
+Nowa Słupia	1339
+Nowy Korczyn	906
+Oleśnica	1742
+Opatowiec	313
+Opatów	6087
+Osiek	1961
+Ostrowiec Świętokrzyski	63932
+Ożarów	4348
+Pacanów	1060
+Pierzchnica	1251
+Pińczów	9972
+Połaniec	7606
+Radoszyce	2932
+Sandomierz	21944
+Sędziszów	6258
+Skalbmierz	1218
+Skarżysko-Kamienna	42458
+Starachowice	45684
+Staszów	13987
+Stąporków	5225
+Stopnica	1178
+Suchedniów	7712
+Szydłów	966
+Wąchock	2541
+Wiślica	477
+Włoszczowa	9697
+Wodzisław	981
+Zawichost	1645
+	
+Barczewo	7476
+Bartoszyce	22020
+Biała Piska	3765
+Biskupiec	10069
+Bisztynek	2227
+Braniewo	16411
+Dobre Miasto	9523
+Działdowo	20520
+Elbląg	114401
+Ełk	60248
+Frombork	2126
+Giżycko	27978
+Gołdap	13349
+Górowo Iławeckie	3738
+Iława	32525
+Jeziorany	3037
+Kętrzyn	25933
+Kisielice	2063
+Korsze	4042
+Lidzbark	7403
+Lidzbark Warmiński	14780
+Lubawa	10622
+Mikołajki	3477
+Miłakowo	2463
+Miłomłyn	2421
+Młynary	1690
+Morąg	13155
+Mrągowo	21046
+Nidzica	12929
+Nowe Miasto Lubawskie	10366
+Olecko	15949
+Olsztyn	169251
+Olsztynek	7283
+Orneta	8207
+Orzysz	5386
+Ostróda	31862
+Pasłęk	12000
+Pasym	2397
+Pieniężno	2477
+Pisz	18074
+Reszel	4105
+Ruciane-Nida	4140
+Ryn	2733
+Sępopol	1908
+Susz	5296
+Szczytno	22299
+Tolkmicko	2459
+Węgorzewo	10806
+Wielbark	2989
+Zalewo	2066
+	
+Bojanowo	2840
+Borek Wielkopolski	2435
+Budzyń	4648
+Buk	5667
+Chocz	1666
+Chodzież	17851
+Czarnków	10218
+Czempiń	5188
+Czerniejewo	2566
+Dąbie	1748
+Dobra	1341
+Dobrzyca	2949
+Dolsk	1561
+Gniezno	64916
+Golina	4367
+Gołańcz	3213
+Gostyń	20121
+Grabów nad Prosną	1926
+Grodzisk Wielkopolski	15163
+Jaraczewo	1374
+Jarocin	26570
+Jastrowie	8401
+Jutrosin	1888
+Kaczory	2812
+Kalisz	95021
+Kępno	13857
+Kleczew	3972
+Kłecko	2594
+Kłodawa	5985
+Kobylin	3185
+Koło	20064
+Konin	69069
+Kostrzyn	9827
+Kościan	23832
+Koźmin Wielkopolski	6231
+Koźminek	1851
+Kórnik	8223
+Krajenka	3556
+Krobia	4426
+Krotoszyn	28503
+Krzywiń	1668
+Krzyż Wielkopolski	5973
+Książ Wielkopolski	2612
+Leszno	61396
+Luboń	32922
+Lwówek	2956
+Łobżenica	2832
+Margonin	3006
+Miejska Górka	3126
+Międzychód	10216
+Mikstat	1722
+Miłosław	3464
+Mosina	14536
+Murowana Goślina	10206
+Nekla	3818
+Nowe Skalmierzyce	4687
+Nowy Tomyśl	13962
+Oborniki	17534
+Obrzycko	2384
+Odolanów	4976
+Okonek	3680
+Opalenica	9350
+Opatówek	3540
+Osieczna	2431
+Ostroróg	1861
+Ostrów Wielkopolski	70296
+Ostrzeszów	13936
+Piła	71226
+Pleszew	16755
+Pniewy	8188
+Pobiedziska	9794
+Pogorzela	2025
+Poniec	2946
+Poznań	545073
+Przedecz	1548
+Puszczykowo	9408
+Pyzdry	2985
+Rakoniewice	3617
+Raszków	2107
+Rawicz	20080
+Rogoźno	10940
+Rychwał	2374
+Rydzyna	2895
+Sieraków	5890
+Skoki	4707
+Słupca	13267
+Sompolno	3417
+Stawiszyn	1402
+Stęszew	5967
+Sulmierzyce	2736
+Swarzędz	28981
+Szamocin	3954
+Szamotuły	18569
+Ślesin	3164
+Śmigiel	5587
+Śrem	28560
+Środa Wielkopolska	24358
+Trzcianka	16699
+Trzemeszno	7462
+Tuliszków	3115
+Turek	25169
+Ujście	3446
+Wągrowiec	25584
+Wieleń	5811
+Wielichowo	1696
+Witkowo	7529
+Wolsztyn	12352
+Wronki	10771
+Września	31937
+Wyrzysk	5053
+Wysoka	2569
+Zagórów	2806
+Zbąszyń	7147
+Zduny	4360
+Złotów	18525
+Żerków	2077
+	
+Barlinek	13262
+Barwice	3488
+Białogard	22908
+Biały Bór	2103
+Bobolice	3802
+Borne Sulinowo	4995
+Cedynia	1470
+Chociwel	3036
+Chojna	7344
+Choszczno	14289
+Czaplinek	6824
+Człopa	2204
+Darłowo	12893
+Dębno	13160
+Dobra	2035
+Dobrzany	2191
+Drawno	2174
+Drawsko Pomorskie	11424
+Dziwnów	2407
+Golczewo	2532
+Goleniów	21993
+Gościno	2632
+Gryfice	15728
+Gryfino	20159
+Ińsko	1807
+Kalisz Pomorski	4085
+Kamień Pomorski	8450
+Karlino	5564
+Kołobrzeg	44003
+Koszalin	104891
+Lipiany	3841
+Łobez	9672
+Maszewo	3304
+Mielno	2817
+Mieszkowice	3404
+Międzyzdroje	4975
+Mirosławiec	3000
+Moryń	1610
+Myślibórz	10558
+Nowe Warpno	1097
+Nowogard	15965
+Pełczyce	2451
+Płoty	3788
+Polanów	2903
+Police	30365
+Połczyn-Zdrój	7409
+Pyrzyce	12003
+Recz	2709
+Resko	3998
+Sianów	6524
+Sławno	12002
+Stargard	67161
+Stepnica	2485
+Suchań	1387
+Szczecin	394482
+Szczecinek	38148
+Świdwin	14831
+Świnoujście	39834
+Trzcińsko-Zdrój	2171
+Trzebiatów	9493
+Tuczno	1824
+Tychowo	2367
+Wałcz	23978
+Węgorzyno	2660
+Wolin	4703
+Złocieniec	12302

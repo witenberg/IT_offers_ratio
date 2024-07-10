@@ -29,6 +29,3 @@ This Python application fetches IT job offers from pracuj.pl website, calculates
 2. Make sure there is a ready-made population.txt file in the application folder, or prepare your own file in the format 'city_name population'.
 4. Run the script `main.py`.
 5. View the sorted results in `city_job_ratio.txt` for city-specific job offer ratios and counts.
-
-## Example Population File Format (`population.txt`)
-

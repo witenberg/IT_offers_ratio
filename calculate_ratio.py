@@ -28,7 +28,10 @@ def calculate_job_population_ratio():
     # Zapis wyników do pliku tekstowego
     output_file = "city_job_ratio.txt"
     with open(output_file, 'w', encoding='utf-8') as file:
-        file.write("Współczynniki ilości ofert pracy na 1000 mieszkańców:\n")
+        remote_job_count = city_job_count.get("Zdalnie", 0)
+        file.write(f"Liczba ofert pracy zdalnej: {remote_job_count}\n")
+        file.write("\nWspółczynniki ilości ofert pracy na 10 tys. "
+                   "mieszkańców dla miast z ilością mieszkańców większą, niż 10 tys. mieszkańców:\n\n")
         for city, ratio in sorted_cities_ratio:
             file.write(f"{city} - {ratio:.2f}\n")
 

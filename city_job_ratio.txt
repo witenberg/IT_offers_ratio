@@ -1,101 +1,142 @@
-Współczynniki ilości ofert pracy na 1000 mieszkańców:
-Leżajsk - 1.54
-Jędrzejów - 1.39
-Busko-Zdrój - 1.35
-Syców - 1.00
-Kępno - 0.72
-Choszczno - 0.70
-Radzymin - 0.69
-Dęblin - 0.69
-Świdwin - 0.67
-Jelcz-Laskowice - 0.66
-Mława - 0.65
+
+Liczba ofert pracy zdalnej: 1156
+
+Współczynniki ilości ofert pracy na 10000 mieszkańców:
+
+Warszawa - 6.94
+Kraków - 5.67
+Jelcz-Laskowice - 3.94
+Gdańsk - 3.64
+Katowice - 3.61
+Poznań - 2.86
+Wrocław - 2.79
+Konstancin-Jeziorna - 2.35
+Leżajsk - 2.30
+Gliwice - 2.09
+Ożarów Mazowiecki - 2.04
+Sopot - 1.83
+Łódź - 1.82
+Grodzisk Mazowiecki - 1.76
+Gdynia - 1.47
+Trzebnica - 1.46
+Kartuzy - 1.42
+Niepołomice - 1.25
+Bielsk Podlaski - 1.23
+Kostrzyn nad Odrą - 1.12
+Nowa Sól - 1.09
+Rzeszów - 1.07
+Andrychów - 1.05
+Bieruń - 1.05
+Murowana Goślina - 0.98
+Siechnice - 0.97
+Piaseczno - 0.96
+Mogilno - 0.89
+Zawiercie - 0.85
+Węgrów - 0.84
+Szczecin - 0.84
+Błonie - 0.83
+Rabka-Zdrój - 0.81
+Chorzów - 0.77
+Rumia - 0.77
+Barlinek - 0.75
+Nowy Tomyśl - 0.72
+Opole - 0.71
+Busko-Zdrój - 0.68
+Police - 0.66
+Bydgoszcz - 0.66
+Solec Kujawski - 0.65
+Pabianice - 0.64
 Krapkowice - 0.64
-Ostróda - 0.63
-Niepołomice - 0.62
+Lublin - 0.63
+Września - 0.63
 Ustroń - 0.62
-Łask - 0.61
-Bogatynia - 0.61
-Jasło - 0.60
-Pleszew - 0.60
-Grójec - 0.59
-Garwolin - 0.58
-Ostrów Wielkopolski - 0.57
-Piła - 0.56
-Kęty - 0.56
-Biała Podlaska - 0.54
+Słubice - 0.61
+Toruń - 0.61
+Namysłów - 0.59
+Strzelce Opolskie - 0.58
+Wadowice - 0.57
+Krasnystaw - 0.56
+Myślenice - 0.55
+Łomianki - 0.55
+Knurów - 0.55
+Zielonka - 0.55
+Sokołów Podlaski - 0.54
 Złotów - 0.54
-Kalisz - 0.53
-Koło - 0.50
-Jastrzębie-Zdrój - 0.48
-Opole - 0.47
-Świebodzin - 0.47
-Polkowice - 0.46
-Kluczbork - 0.44
-Poznań - 0.44
-Płock - 0.44
-Rzeszów - 0.41
-Toruń - 0.41
-Piekary Śląskie - 0.38
-Kielce - 0.38
-Jarocin - 0.38
-Łowicz - 0.38
-Rybnik - 0.38
-Wieliczka - 0.37
-Łuków - 0.36
-Nowy Dwór Mazowiecki - 0.35
-Białystok - 0.34
-Zgorzelec - 0.34
+Kwidzyn - 0.53
+Bolesławiec - 0.53
+Pułtusk - 0.52
+Tczew - 0.52
+Opoczno - 0.51
+Leszno - 0.49
+Zambrów - 0.47
+Dębica - 0.46
+Sandomierz - 0.46
+Krosno - 0.45
+Białystok - 0.44
+Świętochłowice - 0.43
+Zielona Góra - 0.43
+Lubliniec - 0.42
+Środa Wielkopolska - 0.41
+Siedlce - 0.39
+Pszczyna - 0.39
+Wągrowiec - 0.39
+Nowy Sącz - 0.37
+Stalowa Wola - 0.35
+Bielawa - 0.35
+Swarzędz - 0.35
+Słupsk - 0.34
+Augustów - 0.34
+Tomaszów Mazowiecki - 0.34
+Żywiec - 0.33
 Łomża - 0.33
-Głogów - 0.31
-Olsztyn - 0.30
-Brzeg - 0.29
-Lębork - 0.29
-Warszawa - 0.29
-Zielona Góra - 0.29
-Koszalin - 0.29
-Czechowice-Dziedzice - 0.28
-Szczecin - 0.28
-Oświęcim - 0.27
-Bolesławiec - 0.27
-Siedlce - 0.26
-Szczecinek - 0.26
-Jelenia Góra - 0.26
-Gorzów Wielkopolski - 0.25
-Wrocław - 0.25
-Radom - 0.25
-Gdańsk - 0.23
-Kraków - 0.22
-Krosno - 0.22
+Tarnowskie Góry - 0.33
+Mława - 0.32
+Kalisz - 0.32
+Gniezno - 0.31
+Pruszków - 0.31
+Rybnik - 0.30
+Jasło - 0.30
+Stargard - 0.30
+Cieszyn - 0.30
+Konin - 0.29
+Chrzanów - 0.29
+Piła - 0.28
+Elbląg - 0.26
+Dąbrowa Górnicza - 0.26
+Zduńska Wola - 0.25
+Sieradz - 0.25
+Mikołów - 0.24
+Tychy - 0.24
+Kutno - 0.24
+Bielsko-Biała - 0.24
+Olsztyn - 0.24
+Radomsko - 0.23
+Tarnobrzeg - 0.22
 Wodzisław Śląski - 0.22
+Skierniewice - 0.22
+Starogard Gdański - 0.22
 Wejherowo - 0.21
-Zawiercie - 0.21
-Bydgoszcz - 0.21
-Sosnowiec - 0.21
-Chorzów - 0.19
-Rumia - 0.19
-Częstochowa - 0.19
-Lublin - 0.18
-Bielsko-Biała - 0.18
-Stalowa Wola - 0.18
-Tczew - 0.17
-Dąbrowa Górnicza - 0.17
-Chełm - 0.17
-Zamość - 0.17
-Tarnowskie Góry - 0.16
-Leszno - 0.16
-Żory - 0.16
-Gniezno - 0.15
-Stargard - 0.15
+Legnica - 0.21
+Ostrołęka - 0.20
+Radom - 0.20
+Racibórz - 0.20
+Włocławek - 0.19
+Zabrze - 0.19
+Świdnica - 0.18
+Biała Podlaska - 0.18
+Płock - 0.18
+Mielec - 0.17
+Kielce - 0.16
+Głogów - 0.16
+Siemianowice Śląskie - 0.16
 Piotrków Trybunalski - 0.15
-Suwałki - 0.15
-Inowrocław - 0.15
-Katowice - 0.14
-Łódź - 0.14
-Gdynia - 0.12
-Gliwice - 0.12
-Słupsk - 0.11
-Wałbrzych - 0.10
-Elbląg - 0.09
-Tychy - 0.08
-Zabrze - 0.06
+Lubin - 0.14
+Częstochowa - 0.14
+Ostrów Wielkopolski - 0.14
+Mysłowice - 0.14
+Jelenia Góra - 0.13
+Grudziądz - 0.11
+Koszalin - 0.10
+Tarnów - 0.10
+Bytom - 0.07
+Sosnowiec - 0.05
